@@ -1,2 +1,2 @@
-# event-portal
-An event management system
+# Kode fiesta
+The Time For Sharp Coding
